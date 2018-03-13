@@ -1,7 +1,13 @@
 import React from 'react';
 
 const Home =() =>(
-  <h2 className = 'menu'>Menu</h2>
+  <div>
+  <h2 className = 'home'>Home</h2>
+   
+  
+  
+  </div>
+
 )
 
 export default Home;
